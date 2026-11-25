@@ -120,6 +120,3 @@ Recruitment-Analytics-Dashboard/
 This project demonstrates an end-to-end recruitment analytics workflow, from raw data preparation and SQL analysis to Python-based exploration and interactive Power BI reporting.
 
 It showcases practical data analytics skills and the ability to translate recruitment data into meaningful business insights.
-This project demonstrates an end-to-end recruitment analytics workflow, from raw data preparation and SQL analysis to Python-based exploration and interactive Power BI reporting.
-
-It showcases practical data analytics skills and the ability to translate recruitment data into meaningful business insights.
