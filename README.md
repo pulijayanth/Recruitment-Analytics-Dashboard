@@ -88,6 +88,10 @@ The data preparation process included:
 - Average time to hire by job title.
 - Interactive department, source, and status slicers.
 
+## Dashboard Preview
+
+![Recruitment Analytics Dashboard](dashboard_screenshot.png)
+
 ## Project Structure
 
 ```text
