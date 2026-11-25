@@ -77,6 +77,22 @@ The data preparation process included:
 4. Hired candidates had the highest average AI screening score at 74.45.
 5. The overall average time to hire was 43.65 days.
 
+## Business Recommendations
+
+Based on the recruitment analysis, the following recommendations are proposed:
+
+1. **Optimize Recruitment Sources:** Continue leveraging LinkedIn for application volume while studying the strong hiring conversion from the Company Website.
+
+2. **Improve Source Quality:** Review candidate targeting and application quality from Naukri to identify opportunities to improve its hiring rate.
+
+3. **Optimize Hiring Processes:** Analyze the recruitment workflow for Software Engineer positions to identify practices that may be useful for other job roles.
+
+4. **Evaluate AI Screening:** Further investigate the relationship between AI screening scores and hiring outcomes before using scores as a decision-making criterion.
+
+5. **Reduce Hiring Time:** Review recruitment stages and identify potential bottlenecks to improve the overall hiring timeline.
+
+*Note: These recommendations are based on a synthetic dataset and should be validated with real recruitment data before implementation.*
+
 ## Power BI Dashboard Features
 
 - Recruitment KPI cards.
